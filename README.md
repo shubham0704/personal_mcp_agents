@@ -33,5 +33,6 @@ For windows specific instructions please look [here](https://modelcontextprotoco
     }
 }
 ```
-4. Open the claude desktop application.
+6. Go to perplexity.ai and generate your API key. Paste your API key in search.py
+7. Open the claude desktop application.
    ![Image](claude_desktop.png)
