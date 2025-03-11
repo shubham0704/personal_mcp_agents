@@ -1,5 +1,5 @@
 # Setup Instructions 
-**For this example we will consider making an agent from search.py**
+**For this example we will add perplexity search capabilities to claude!**
 
 For windows specific instructions please look [here](https://modelcontextprotocol.io/quickstart/server)
 
@@ -34,3 +34,4 @@ For windows specific instructions please look [here](https://modelcontextprotoco
 }
 ```
 4. Open the claude desktop application.
+   ![Image](claude_desktop.png)
